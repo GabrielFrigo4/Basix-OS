@@ -1,2 +1,2 @@
 # Basix-OS
-Basix is ​​an Operating System for X86-16 that aims to be Basic, Clean and Optimized
+__Basix__ is ​​an __Operating System__ for __X86-16__ that aims to be __Basic__, __Clean__ and __Optimized__
