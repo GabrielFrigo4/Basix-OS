@@ -3,7 +3,7 @@ __Basix-OS__ is ​​an __Operating System__ for __X86-16__ that aims to be __B
 
 ## Features
  - Written completely in __Assembly (NASM)__
- - Have a built-in binary tools
+ - Have a built-in __Binary Tools__
 
 ## Likely Features
  - Have a built-in __Basix-Lang__
